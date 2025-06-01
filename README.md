@@ -45,7 +45,7 @@ BRL 19,90
 
 
 <img src="images/electric-box.jpeg" alt="" width="300"><br />
-[Waterproof Black Electronic Case (200 x 120 x 75 mm)](https://shopee.com.br/CAIXA-PL%C3%81STICA-DE-PASSAGEM-MULTIUSO-195x115x70mm-STRAHL-3035-i.647079001.1473368130)
+[Waterproof Black Electronic Case (200 x 120 x 75 mm)](https://shopee.com.br/CAIXA-PL%C3%81STICA-DE-PASSAGEM-MULTIUSO-195x115x70mm-STRAHL-3035-i.647079001.14733681306)
 BRL 26,89
 
 <img src="images/carbon-fiber-vinyl.jpeg" alt="" width="300"><br />
