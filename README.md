@@ -36,60 +36,61 @@ Here's what I used for building button box.
 Overall cost US $34.4 (2629 Rub).
 
 <img src="images/arduino.jpeg" alt="" width="300"><br />
-[Arduino Pro Micro ATmega32U4 5V 16MHz](https://www.aliexpress.com/item/Pro-Micro-ATmega32U4-5V-16MHz-Replace-ATmega328-For-Arduino-Pro-Mini-With-2-Row-Pin-Header/32808519179.html?spm=a2g0s.12269583.0.0.323843e2ONxze9)
-US $4.18 (319 Rub)
+[Arduino Pro Micro ATmega32U4 5V 16MHz (No soldering) ](https://shopee.com.br/Placa-Arduino-Nano-Com-Conector-V3-Pino-Sem-Solda-Atmega328p-i.457636598.22100357343?sp_atk=c3ac6348-003d-4aab-b0e7-5f57566a8025&xptdk=c3ac6348-003d-4aab-b0e7-5f57566a8025)
+BRL 34,90
 
 <img src="images/usb-cable.jpeg" alt="" width="300"><br />
-[PZOZ Micro USB Cable (2 m)](https://www.aliexpress.com/item/PZOZ-Micro-USB-Cable-Fast-Charging-3A-Microusb-Cord-For-Samsung-S7-Xiaomi-Redmi-Note-5/32958208619.html?spm=a2g0s.12269583.0.0.637e29ea8RBpoD)
-US $1.87 (143 Rub)
+[PZOZ Micro USB Cable (2 m)](https://shopee.com.br/Cabo-Carregador-Controle-X-Box-Series-S-Ps5-3-Metros-Type-C-i.999193812.23395741855)
+BRL 19,90
+
 
 <img src="images/electric-box.jpeg" alt="" width="300"><br />
-[Waterproof Black Electronic Case (200 x 120 x 75 mm)](https://www.aliexpress.com/item/Waterproof-Black-DIY-Housing-Instrument-Case-ABS-Plastic-Project-Box-Storage-Case-Enclosure-Boxes-Electronic-Supplies/4000927393062.html?spm=a2g0s.12269583.0.0.334857c2cJOFWx)
-US $8.99 (688 Rub)
+[Waterproof Black Electronic Case (200 x 120 x 75 mm)](https://shopee.com.br/CAIXA-PL%C3%81STICA-DE-PASSAGEM-MULTIUSO-195x115x70mm-STRAHL-3035-i.647079001.14733681306)
+BRL 26,89
 
 <img src="images/carbon-fiber-vinyl.jpeg" alt="" width="300"><br />
-[3D Carbon Fiber Vinyl Black (30 x 127 cm)](https://www.aliexpress.com/item/3D-Carbon-Fiber-Vinyl-Multiple-Size-Car-Wrap-Sheet-Roll-Film-Sticker-Motorcycle-Automobile-Styling-Black/4001133895921.html?spm=a2g0s.12269583.0.0.7e1b4a41BKBwUR)
-US $3.69 (284 Rub)
+[3D Carbon Fiber Vinyl Black (30 x 127 cm)](https://shopee.com.br/2m-X-60cm-Vinil-Adesivo-Envelopamento-Fibra-Carbono-Preto-i.660595518.22793522564)
+
 
 <img src="images/engine-start.jpeg" alt="" width="300"><br />
-[Reset (Momentary) Round Engine Start Metal Push Button(16mm Red)](https://www.aliexpress.com/item/5-Colors-DIY-16-19-22mm-Latching-Reset-Flat-Round-Engine-Start-Symbol-Text-12V-Led/4001340240615.html?spm=a2g0s.12269583.0.0.7f275277R46hTz)
-US $3.32 (253 Rub)
+[Reset (Momentary) Round Engine Start Metal Push Button(22mm Red)](https://shopee.com.br/-baipestonwe-Bot%C3%A3o-De-Partida-Do-Motor-Carro-Interruptor-Sem-Chave-De-Igni%C3%A7%C3%A3o-Interruptores-Liga-Desliga-i.589728500.29222489778)
+BRL 24,89 + Taxes
 
 <img src="images/on-off-on-switch.jpeg" alt="" height="300"><br />
-[Miniature Toggle Momentary (on-off-on) Switches (MTS-123 Reset) x 5 Pcs](https://www.aliexpress.com/item/5pcs-10pcs-Red-Momentary-lock-Mini-MTS-123-MTS-103-3-Pin-SPDT-ON-OFF-ON/32951224970.html?spm=a2g0s.12269583.0.0.1a1528b5t8QDqh)
-US $1.87 (143 Rub)
+[Miniature Toggle Momentary (on-off-on) Switches (MTS-123 Reset) x 5 Pcs](https://shopee.com.br/10-Chave-Alavanca-2-Posi%C3%A7%C3%B5es-3-Terminais-Mts102-6A-i.544761445.23692799942?xptdk=4fc808ea-0e1f-4cc4-b7c1-55ee7053b0b7)
+BRL 13,50
 
 <img src="images/toggle-switch-red.jpeg" alt="" width="300"><br />
-[Toggle Switch Illuminated Led Red (ASW-07D)](https://www.aliexpress.com/item/Auto-Car-Boat-Truck-Illuminated-Led-Toggle-Switch-With-Safety-Aircraft-Flip-Up-Cover-Guard-Red/32859201158.html?spm=a2g0s.12269583.0.0.3e876f24BMhnUB)
-US $1.69 (129 Rub)
+[Toggle Switch Illuminated Led Red (ASW-07D)](https://shopee.com.br/Bot%C3%A3o-Chave-Liga-Desliga-2-Posi%C3%A7%C3%B5es-Tipo-Ca%C3%A7a-com-Capa-Colorida-i.864769091.18099237365)
+BRL 22,99
 
 <img src="images/toggle-switch-blue.jpeg" alt="" width="300"><br />
-[Toggle Switch Illuminated Led Blue (ASW-07D)](https://www.aliexpress.com/item/Auto-Car-Boat-Truck-Illuminated-Led-Toggle-Switch-With-Safety-Aircraft-Flip-Up-Cover-Guard-Red/32859201158.html?spm=a2g0s.12269583.0.0.68a86f24Iu2UTM)
-US $1.69 (129 Rub)
+[Toggle Switch Black (ASW-07D)](https://shopee.com.br/Bot%C3%A3o-Chave-Liga-Desliga-2-Posi%C3%A7%C3%B5es-Tipo-Ca%C3%A7a-com-Capa-Colorida-i.864769091.18099237365)
+BRL 22,99
 
 <img src="images/white-button.jpeg" alt="" width="300"><br />
-[Momentary (Reset) Push Button White (PBS-33B) x 10 Pcs](https://www.aliexpress.com/item/10Pcs-PBS-33b-Black-Red-Green-Yellow-Blue-12mm-Waterproof-Momentary-Push-button-Switch/32860925831.html?spm=a2g0s.12269583.0.0.3e3ec93eDMLt54)
-US $1.68 (128 Rub)
+[16 mm Momentary (Reset) Push Button Blue (PBS-33B) x 4 Pcs](https://shopee.com.br/12mm-16mm-Electronic-Led-Metal-Momentary-Push-Button-Waterproof-On-Off-Latching-Car-Light-Switch-12-V-220-V-i.444112290.9656675856)
+BRL 8,80 + Taxes
 
 <img src="images/red-button.jpeg" alt="" width="300"><br />
-[Momentary (Reset) Push Button Red (PBS-33B) x 10 Pcs](https://www.aliexpress.com/item/10Pcs-PBS-33b-Black-Red-Green-Yellow-Blue-12mm-Waterproof-Momentary-Push-button-Switch/32860925831.html?spm=a2g0s.12269583.0.0.3c98c93erXBaCq)
-US $1.68 (128 Rub)
+[16 mm Momentary (Reset) Push Button Red (PBS-33B) x 4 Pcs](https://shopee.com.br/12mm-16mm-Electronic-Led-Metal-Momentary-Push-Button-Waterproof-On-Off-Latching-Car-Light-Switch-12-V-220-V-i.444112290.9656675856)
+BRL 8,80 + taxes
 
 <img src="images/encoder.jpeg" alt="" width="300"><br />
-[Rotary Encoder EC11 w Push Button 20mm Plum handle x 5 Pcs](https://www.aliexpress.com/item/5PCS-LOT-20-Position-360-Degree-Rotary-Encoder-EC11-w-Push-Button-5Pin-Handle-Long-15/10000056483250.html?spm=a2g0s.12269583.0.0.1cdd7334DBpJTm)
-US $1.97 (150 Rub)
+[Rotary Encoder EC11 w Push Button 20mm Plum handle x 5 Pcs](https://shopee.com.br/5x-Potenci%C3%B4metro-Rotativo-5-pinos-Encoder-EC11-c-click-20mm-i.980376317.22793202606?sp_atk=7ea1b003-9473-4e16-ac67-fd75ec2faddc&xptdk=7ea1b003-9473-4e16-ac67-fd75ec2faddc)
+BRL 32,50
 
 <img src="images/rotary-cap.jpeg" alt="" width="300"><br />
-[Rotary Caps Black x 5 Pcs](https://www.aliexpress.com/item/5PCS-LOT-20-Position-360-Degree-Rotary-Encoder-EC11-w-Push-Button-5Pin-Handle-Long-15/10000056483250.html?spm=a2g0s.12269583.0.0.1f2a7334KVtcHL)
-US $0.63 (48 Rub)
+[Rotary Caps Black x 5 Pcs](https://shopee.com.br/5x-Knob-para-Potenci%C3%B4metro-Eixo-Estriado-6mm-i.343657323.11386670942)
+BRL 26,68
 
 <img src="images/wires.jpeg" alt="" width="300"><br />
 [PVC Tinned Copper Wire Cable Black (30 AWG) 2m](https://www.aliexpress.com/item/2M-UL1007-PVC-Tinned-Copper-Wire-Cable-16-18-20-22-24-26-28-30-AWG/1005001657149453.html?spm=a2g0s.12269583.0.0.2c31205b1yiOka)
-US $0.38 (29 Rub)<br />
+
 [PVC Tinned Copper Wire Cable Red (30 AWG) 2m](https://www.aliexpress.com/item/2M-UL1007-PVC-Tinned-Copper-Wire-Cable-16-18-20-22-24-26-28-30-AWG/1005001657149453.html?spm=a2g0s.12269583.0.0.5098205bUb3MU6)
-US $0.38 (29 Rub)<br />
+
 [PVC Tinned Copper Wire Cable White (30 AWG) 2m](https://www.aliexpress.com/item/2M-UL1007-PVC-Tinned-Copper-Wire-Cable-16-18-20-22-24-26-28-30-AWG/1005001657149453.html?spm=a2g0s.12269583.0.0.388a205bQUUxiJ)
-US $0.38 (29 Rub)
+
 
 ## Software Setup
 Ten simple steps any of you can done without special programming skills.
