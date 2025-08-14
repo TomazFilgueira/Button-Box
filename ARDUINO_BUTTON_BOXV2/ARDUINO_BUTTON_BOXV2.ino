@@ -87,8 +87,8 @@ const unsigned char ttable[7][4] = {
 };
 #endif
 
-byte rowPins[NUMROWS] = {21,20,19,18,15}; 
-byte colPins[NUMCOLS] = {14,16,10,9,8}; 
+byte colPins[NUMROWS] = {21,20,19,18,15}; 
+byte rowPins[NUMCOLS] = {14,16,10,9,8}; 
 
 Keypad buttbx = Keypad( makeKeymap(buttons), rowPins, colPins, NUMROWS, NUMCOLS); 
 
