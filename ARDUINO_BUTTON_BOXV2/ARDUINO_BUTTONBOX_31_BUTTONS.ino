@@ -9,17 +9,17 @@
 
 #define ENABLE_PULLUPS
 #define NUMROTARIES 4
-#define NUMBUTTONS 24
+#define NUMBUTTONS 23
 #define NUMROWS 5
 #define NUMCOLS 5
 
 
 byte buttons[NUMROWS][NUMCOLS] = {
-  {0,1,2,3,4},
-  {5,6,7,8,9},
-  {10,11,12,13,14},
-  {15,16,17,18,19},
-  {20,21,22,23},
+  {0, 1, 2, 3},
+  {4, 5, 6, 7, 8},
+  {9, 10, 11, 12, 13},
+  {14, 15, 16, 17},
+  {18, 19, 20, 21, 22},
 };
 
 struct rotariesdef {
@@ -87,8 +87,8 @@ const unsigned char ttable[7][4] = {
 };
 #endif
 
-byte colPins[NUMROWS] = {21,20,19,18,15}; 
-byte rowPins[NUMCOLS] = {14,16,10,9,8}; 
+byte colPins[NUMCOLS] = {21,20,19,18,15}; 
+byte rowPins[NUMROWS] = {14, 16, 10, 9, 8}; 
 
 Keypad buttbx = Keypad( makeKeymap(buttons), rowPins, colPins, NUMROWS, NUMCOLS); 
 
