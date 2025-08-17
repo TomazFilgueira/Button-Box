@@ -21,7 +21,7 @@ Original credits goes to [AMSTUDIO](https://github.com/AM-STUDIO/32-FUNCTION-BUT
 [Download vector template](/buttonbox_layout.ai)
 
 Utilize it for drilling holes for buttons and switches. It has real sizes for all components listed below, just print it and put it over your plastic case 200 x 120 mm.
-Use inside circles diameters. You should have drill bits sized 6, 7, 12, 14, 16 mm.
+Use inside circles diameters. You should have drill bits sized 6, 7, 12, 16, 25 mm.
 
 ## Wiring Diagram
 
@@ -33,7 +33,7 @@ You can open the source file in [diagrams.net](https://app.diagrams.net) editor.
 
 ## Components
 Here's what I used for building button box.
-Overall cost US $34.4 (2629 Rub).
+Overall cost BRL 400,00
 
 <img src="images/arduino.jpeg" alt="" width="300"><br />
 [Arduino Pro Micro ATmega32U4 5V 16MHz (No soldering) ](https://shopee.com.br/Placa-Arduino-Nano-Com-Conector-V3-Pino-Sem-Solda-Atmega328p-i.457636598.22100357343?sp_atk=c3ac6348-003d-4aab-b0e7-5f57566a8025&xptdk=c3ac6348-003d-4aab-b0e7-5f57566a8025)
@@ -98,7 +98,7 @@ Ten simple steps any of you can done without special programming skills.
 1. Download and install [Arduino IDE](https://www.arduino.cc/en/software).
 2. Download [ArduinoJoystickLibrary](https://github.com/MHeironimus/ArduinoJoystickLibrary/archive/master.zip).
 3. In the Arduino IDE, select `Sketch` > `Include Library` > `Add .ZIP Library...`.  Browse to where the downloaded ZIP file is located and click `Open`. The Joystick library's examples will now appear under `File` > `Examples` > `Joystick`.
-4. Get [32-FUNCTION-BUTTON-BOX](https://github.com/AM-STUDIO/32-FUNCTION-BUTTON-BOX) sketch file.
+4. Get [31-FUNCTION-BUTTON-BOX](https://github.com/TomazFilgueira/Button-Box/tree/main/ARDUINO_BUTTON_BOXV2) sketch file.
 5. Open Arduino IDE and add `Keypad.h` library by clicking `Sketch` > `Include Library` > `Manage Libraries...` > Search for `Keypad` and install the one that is created by `Mark Stanley and Alexander Brevig`).
 6. Connect your Arduino board to your computer by plugging in the USB cable.
 7. To upload the code select the Arduino type by going to `Tools` > `Board:...` > `Arduino Leonardo`.
